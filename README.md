@@ -1,3 +1,10 @@
 # first
+
+1.
 first repo for practice
-branching out of main and merged
+
+2.
+branching out of main and merged in github
+
+3.
+edited and uploaded in vsc
